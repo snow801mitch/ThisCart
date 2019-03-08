@@ -38,7 +38,11 @@
     "parserOptions": {
       "parser": "babel-eslint"
     }
-  },
+    },
+    "prettier": {
+      "tabwidth": 4,
+      "singleQuote": true
+    },
   "postcss": {
     "plugins": {
       "autoprefixer": {}
