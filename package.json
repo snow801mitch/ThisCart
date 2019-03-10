@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0-rc.1",
+    "@material/icon-button": "^1.0.0",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
     "vuetify": "^1.5.5",
@@ -38,11 +39,11 @@
     "parserOptions": {
       "parser": "babel-eslint"
     }
-    },
-    "prettier": {
-      "tabwidth": 4,
-      "singleQuote": true
-    },
+  },
+  "prettier": {
+    "tabwidth": 4,
+    "singleQuote": true
+  },
   "postcss": {
     "plugins": {
       "autoprefixer": {}

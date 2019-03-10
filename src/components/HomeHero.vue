@@ -4,9 +4,8 @@
             <div class="display-4 font-weight-black white--text text-xs-center">Shop Your Way</div>
             <div class="display-4 font-weight-black white--text text-xs-center mb-3">BUY NOW</div>
             <div class="display-1 font-weight-bold white--text text-xs-center">Finally have all the gear you need at your fingertips</div>
-            <v-btn fab class="mt-5 orange darken-4">
+            <v-btn fab class="mt-5 orange darken-4">$$$</v-btn>
             <v-icon large color="white">Shop now</v-icon>
-            </v-btn>
         </v-layout>
     </v-container>
 </template>
